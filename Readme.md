@@ -59,3 +59,5 @@ The `responsiveInput` function ensures a responsive width for input elements by 
 - **currentNumbers**: Updated character count after changes.
 - **minWidth**: Minimum width to display initial characters fully (use as CSS `min-width`).
 
+Source Code: https://github.com/Aragorn1992gb/DDRL--app-common
+--- Powered by: Giacomo Brunetta ---
