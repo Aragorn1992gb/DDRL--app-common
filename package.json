@@ -1,0 +1,28 @@
+{
+  "name": "@gmwallet/app-common",
+  "version": "2.3.0",
+  "description": "This is a common lib for the whole application. Now available also in typescript.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "keywords": [
+    "typescript",
+    "responsive",
+    "utility"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "peerDependencies": {
+    "jquery": ">=1.7.0"
+  }
+}
