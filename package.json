@@ -1,6 +1,6 @@
 {
   "name": "@gmwallet/app-common",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "This is a common lib for the whole application. Now available also in typescript.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
